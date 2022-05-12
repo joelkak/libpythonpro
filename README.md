@@ -5,3 +5,5 @@ Joelzinho executou e quebrou a cabeça paara aprender ... heheh é preciso prepa
 J(=´;´=)e 
 link do [Curso PyTools] :
 (https://plataforma.dev.pro.br)
+#1
+
