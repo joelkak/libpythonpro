@@ -4,5 +4,14 @@ Nesse curso é ensinado como contribuir com projetos de codigo aberto...
 Joelzinho executou e quebrou a cabeça paara aprender ... heheh é preciso preparar o terreno 
 J(=´;´=)e 
 link do [Curso PyTools] :
+
+Suportada versão 3 de python
+
 (https://plataforma.dev.pro.br)
+
+Tópicos a serem abordados:
+1. Git
+2. Virtualenv
+3. Pip 
+
 
