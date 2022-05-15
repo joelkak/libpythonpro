@@ -6,8 +6,10 @@ J(=´;´=)e
 link do [Curso PyTools] :
 
 Suportada versão 3 de python
-(https://plataforma.dev.pro.br)
+(https://plataforma.dev.pro.br) 
+
 [![Build Status](https://app.travis-ci.com/joelkak/libpythonpro.svg?branch=main)](https://app.travis-ci.com/joelkak/libpythonpro)
+
 Para instalar:
 
 '''console python3 -m venv .venv 
