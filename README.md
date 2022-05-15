@@ -6,9 +6,18 @@ J(=´;´=)e
 link do [Curso PyTools] :
 
 Suportada versão 3 de python
-
 (https://plataforma.dev.pro.br)
+Para instalar:
 
+'''console python3 -m venv .venv 
+source .venv/bin/activate '
+pip install -r requeriments-dev.txt
+'''
+Para conferir qualidade do código:
+'''console
+flake8
+
+'''
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
